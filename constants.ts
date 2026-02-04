@@ -1,6 +1,6 @@
 import { Project, SkillCategory, Experience } from './types';
 
-export const RESUME_LINK = "./src/riyajingar_resume.pdf"; // Placeholder path
+export const RESUME_LINK = "src/riyajingar_resume.pdf"; // Placeholder path
 
 export const PROJECTS: Project[] = [
   {
